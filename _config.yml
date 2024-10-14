@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Data Anayst
 description         : >-
-                      Results-Driven, Teamwork-oriented Data Analyst with over 2 years of experience in data analytics, dashboard creatio and process automation 
-                      with a masters degree in Computer science from State University of New York at Binghamton. I aspire to continually enhance my technical skills 
-                      in data analytics and business intelligence, while collaborating with cross-functional teams to create impactful data-driven strategies that enhance customer experiences.
+                      Data Enthusiast|Masters in Computer Science 
+                      from State University of New York at Binghamton
                       
 baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
